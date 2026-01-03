@@ -56,3 +56,4 @@ A “Predict Risk” button to generate real-time predictions.
 Output Screenshort
 ![image alt](https://github.com/laxmi501/Healthcare_Risk_Stratification_Model/blob/308a3f498a07895edd51572294c439571a2c8878/Output%20Screenshort.png)
 Project link:- 
+https://healthcareriskstratificationmodel-amrf7qkjjci2fxapnfljqr.streamlit.app/
