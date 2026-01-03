@@ -54,4 +54,4 @@ Sliders and input fields for entering patient information.
 A “Predict Risk” button to generate real-time predictions.
 
 Output Screenshort
-Project link:- https://healthcare-risk-stratification-model.streamlit.app/
+Project link:- 
